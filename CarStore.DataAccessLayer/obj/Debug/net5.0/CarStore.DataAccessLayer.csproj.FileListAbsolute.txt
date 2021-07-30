@@ -1,0 +1,36 @@
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.deps.json
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\ref\CarStore.DataAccessLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.pdb
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.Shared.dll
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.Shared.pdb
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.AssemblyInfo.cs
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.csproj.CopyComplete
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\ref\CarStore.DataAccessLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.pdb
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.runtimeconfig.json
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.runtimeconfig.dev.json
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Apps\Новая папка\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.genruntimeconfig.cache
+D:\Apps\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.deps.json
+D:\Apps\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.runtimeconfig.json
+D:\Apps\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.runtimeconfig.dev.json
+D:\Apps\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.dll
+D:\Apps\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\ref\CarStore.DataAccessLayer.dll
+D:\Apps\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.pdb
+D:\Apps\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.Shared.dll
+D:\Apps\CarStore\CarStore.DataAccessLayer\bin\Debug\net5.0\CarStore.Shared.pdb
+D:\Apps\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Apps\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Apps\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.AssemblyInfo.cs
+D:\Apps\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Apps\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.csproj.CopyComplete
+D:\Apps\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.dll
+D:\Apps\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\ref\CarStore.DataAccessLayer.dll
+D:\Apps\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.pdb
+D:\Apps\CarStore\CarStore.DataAccessLayer\obj\Debug\net5.0\CarStore.DataAccessLayer.genruntimeconfig.cache

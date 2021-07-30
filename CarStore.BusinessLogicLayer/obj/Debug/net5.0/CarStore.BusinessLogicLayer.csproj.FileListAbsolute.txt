@@ -1,0 +1,34 @@
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.BusinessLogicLayer.deps.json
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.BusinessLogicLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\ref\CarStore.BusinessLogicLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.BusinessLogicLayer.pdb
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.Shared.dll
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.pdb
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.Shared.pdb
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.AssemblyInfo.cs
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.csproj.CopyComplete
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\ref\CarStore.BusinessLogicLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.pdb
+D:\Apps\Новая папка\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.BusinessLogicLayer.deps.json
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.BusinessLogicLayer.dll
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\ref\CarStore.BusinessLogicLayer.dll
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.BusinessLogicLayer.pdb
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.dll
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.Shared.dll
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.DataAccessLayer.pdb
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\bin\Debug\net5.0\CarStore.Shared.pdb
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.AssemblyInfo.cs
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.csproj.CopyComplete
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.dll
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\ref\CarStore.BusinessLogicLayer.dll
+D:\Apps\CarStore\CarStore.BusinessLogicLayer\obj\Debug\net5.0\CarStore.BusinessLogicLayer.pdb

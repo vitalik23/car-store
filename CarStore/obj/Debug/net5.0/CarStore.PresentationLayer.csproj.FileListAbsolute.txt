@@ -1,0 +1,146 @@
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\appsettings.Development.json
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\appsettings.json
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.exe
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.deps.json
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.runtimeconfig.json
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.runtimeconfig.dev.json
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\ref\CarStore.PresentationLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.pdb
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.AssemblyInfoInputs.cache
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.AssemblyInfo.cs
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\staticwebassets\CarStore.PresentationLayer.StaticWebAssets.Manifest.cache
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\staticwebassets\CarStore.PresentationLayer.StaticWebAssets.xml
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\scopedcss\bundle\CarStore.PresentationLayer.styles.css
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.RazorTargetAssemblyInfo.cache
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.csproj.CopyComplete
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\ref\CarStore.PresentationLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.pdb
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.genruntimeconfig.cache
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.BusinessLogicLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.DataAccessLayer.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.Shared.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.BusinessLogicLayer.pdb
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.DataAccessLayer.pdb
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\CarStore.Shared.pdb
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\ua-cities.json
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\Новая папка\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.csproj.AssemblyReference.cache
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Humanizer.dll
+D:\Apps\Новая папка\CarStore\CarStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\appsettings.Development.json
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\appsettings.json
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\ua-cities.json
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.exe
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.deps.json
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.runtimeconfig.json
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.runtimeconfig.dev.json
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\ref\CarStore.PresentationLayer.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.PresentationLayer.pdb
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Humanizer.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.BusinessLogicLayer.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.DataAccessLayer.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.Shared.dll
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.BusinessLogicLayer.pdb
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.DataAccessLayer.pdb
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\CarStore.Shared.pdb
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.csproj.AssemblyReference.cache
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.AssemblyInfoInputs.cache
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.AssemblyInfo.cs
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\staticwebassets\CarStore.PresentationLayer.StaticWebAssets.Manifest.cache
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\staticwebassets\CarStore.PresentationLayer.StaticWebAssets.xml
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\scopedcss\bundle\CarStore.PresentationLayer.styles.css
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.RazorTargetAssemblyInfo.cache
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.csproj.CopyComplete
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.dll
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\ref\CarStore.PresentationLayer.dll
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.pdb
+D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.genruntimeconfig.cache

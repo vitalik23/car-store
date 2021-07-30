@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarStore.DataAccessLayer\CarStore.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\CarStore.Shared\CarStore.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
