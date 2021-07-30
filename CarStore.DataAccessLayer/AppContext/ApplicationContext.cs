@@ -9,7 +9,7 @@ namespace CarStore.DataAccessLayer.AppContext
         public ApplicationContext(DbContextOptions<ApplicationContext> options)
             : base(options)
         {
-            Database.Migrate();
+            Database.EnsureCreated();
         }
 
         public DbSet<Brand> Brands { get; set; }
