@@ -101,7 +101,6 @@ D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -144,3 +143,4 @@ D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.dll
 D:\Apps\CarStore\CarStore\obj\Debug\net5.0\ref\CarStore.PresentationLayer.dll
 D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.pdb
 D:\Apps\CarStore\CarStore\obj\Debug\net5.0\CarStore.PresentationLayer.genruntimeconfig.cache
+D:\Apps\CarStore\CarStore\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

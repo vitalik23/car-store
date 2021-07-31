@@ -35,7 +35,8 @@ namespace CarStore.DataAccessLayer
                 .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationContext>();
 
-            service.AddScoped(typeof(IBaseRepository<>), typeof(BaseRepository<>));
+            //service.AddScoped(typeof(IBaseRepository<>), typeof(BaseRepository<>));
+            service.AddTransient<IUserRepository, UserRepository>();
 
             Task.Run(() => DataBaseInitialization.InitializeAsync(service));
 

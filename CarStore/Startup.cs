@@ -1,4 +1,5 @@
 using CarStore.DataAccessLayer.AppContext;
+using CarStore.Shared.Common.Options;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -23,7 +24,8 @@ namespace CarStore
         {
             BusinessLogicLayer.Startup.BusinessLogicInitializer(services, Configuration);
 
-           
+            services.Configure<JwtConnectionOptions>(Configuration.GetSection("jwtConfig"));
+            services.Configure<StringConnectionOptions>(Configuration.GetSection("ConnectionStrings"));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
