@@ -22,3 +22,15 @@ D:\Apps\CarStore\CarStore.Shared\obj\Debug\net5.0\CarStore.Shared.csproj.CoreCom
 D:\Apps\CarStore\CarStore.Shared\obj\Debug\net5.0\CarStore.Shared.dll
 D:\Apps\CarStore\CarStore.Shared\obj\Debug\net5.0\ref\CarStore.Shared.dll
 D:\Apps\CarStore\CarStore.Shared\obj\Debug\net5.0\CarStore.Shared.pdb
+C:\Projects\CarStore\CarStore.Shared\bin\Debug\net5.0\CarStore.Shared.deps.json
+C:\Projects\CarStore\CarStore.Shared\bin\Debug\net5.0\CarStore.Shared.dll
+C:\Projects\CarStore\CarStore.Shared\bin\Debug\net5.0\ref\CarStore.Shared.dll
+C:\Projects\CarStore\CarStore.Shared\bin\Debug\net5.0\CarStore.Shared.pdb
+C:\Projects\CarStore\CarStore.Shared\obj\Debug\net5.0\CarStore.Shared.csproj.AssemblyReference.cache
+C:\Projects\CarStore\CarStore.Shared\obj\Debug\net5.0\CarStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CarStore\CarStore.Shared\obj\Debug\net5.0\CarStore.Shared.AssemblyInfoInputs.cache
+C:\Projects\CarStore\CarStore.Shared\obj\Debug\net5.0\CarStore.Shared.AssemblyInfo.cs
+C:\Projects\CarStore\CarStore.Shared\obj\Debug\net5.0\CarStore.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\CarStore\CarStore.Shared\obj\Debug\net5.0\CarStore.Shared.dll
+C:\Projects\CarStore\CarStore.Shared\obj\Debug\net5.0\ref\CarStore.Shared.dll
+C:\Projects\CarStore\CarStore.Shared\obj\Debug\net5.0\CarStore.Shared.pdb

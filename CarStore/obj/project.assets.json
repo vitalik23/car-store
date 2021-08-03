@@ -5768,19 +5768,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vitalik\\.nuget\\packages\\": {}
+    "C:\\Users\\Anuitex\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Apps\\CarStore\\CarStore\\CarStore.PresentationLayer.csproj",
+      "projectUniqueName": "C:\\Projects\\CarStore\\CarStore\\CarStore.PresentationLayer.csproj",
       "projectName": "CarStore.PresentationLayer",
-      "projectPath": "D:\\Apps\\CarStore\\CarStore\\CarStore.PresentationLayer.csproj",
-      "packagesPath": "C:\\Users\\Vitalik\\.nuget\\packages\\",
-      "outputPath": "D:\\Apps\\CarStore\\CarStore\\obj\\",
+      "projectPath": "C:\\Projects\\CarStore\\CarStore\\CarStore.PresentationLayer.csproj",
+      "packagesPath": "C:\\Users\\Anuitex\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\CarStore\\CarStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vitalik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anuitex\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5794,8 +5794,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Apps\\CarStore\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj": {
-              "projectPath": "D:\\Apps\\CarStore\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj"
+            "C:\\Projects\\CarStore\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Projects\\CarStore\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj"
             }
           }
         }

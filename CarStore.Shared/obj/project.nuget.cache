@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ibYlB0fz9alewxAREwJ6wlNiZGlsyeXCH4TMiPmwwRhL8YgQklkr4//XPX1Wu/5sJ62F7p6H34KXLGkzFxJsVQ==",
+  "dgSpecHash": "guvBGCEIgHXNJLdKnjOYTcJZuEVV1u9CD/yKcmzSjqf0Q9fYKE8vMJVjFk0iuu1rWDK16EEHzwBuP/iQmODHLg==",
   "success": true,
-  "projectFilePath": "D:\\Apps\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj",
+  "projectFilePath": "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Vitalik\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
-    "C:\\Users\\Vitalik\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\Vitalik\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
-    "C:\\Users\\Vitalik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\Vitalik\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+    "C:\\Users\\Anuitex\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anuitex\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anuitex\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\Anuitex\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anuitex\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

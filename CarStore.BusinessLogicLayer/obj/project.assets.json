@@ -5503,19 +5503,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vitalik\\.nuget\\packages\\": {}
+    "C:\\Users\\Anuitex\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Apps\\CarStore\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj",
+      "projectUniqueName": "C:\\Projects\\CarStore\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj",
       "projectName": "CarStore.BusinessLogicLayer",
-      "projectPath": "D:\\Apps\\CarStore\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj",
-      "packagesPath": "C:\\Users\\Vitalik\\.nuget\\packages\\",
-      "outputPath": "D:\\Apps\\CarStore\\CarStore.BusinessLogicLayer\\obj\\",
+      "projectPath": "C:\\Projects\\CarStore\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj",
+      "packagesPath": "C:\\Users\\Anuitex\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\CarStore\\CarStore.BusinessLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vitalik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anuitex\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5529,11 +5529,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Apps\\CarStore\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj": {
-              "projectPath": "D:\\Apps\\CarStore\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj"
+            "C:\\Projects\\CarStore\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Projects\\CarStore\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj"
             },
-            "D:\\Apps\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj": {
-              "projectPath": "D:\\Apps\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj"
+            "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj": {
+              "projectPath": "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj"
             }
           }
         }
