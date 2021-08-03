@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CarStore\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj": {}
+    "C:\\Projects\\Car\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CarStore\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj": {
+    "C:\\Projects\\Car\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CarStore\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Projects\\Car\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj",
         "projectName": "CarStore.DataAccessLayer",
-        "projectPath": "C:\\Projects\\CarStore\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj",
+        "projectPath": "C:\\Projects\\Car\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Anuitex\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CarStore\\CarStore.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Projects\\Car\\CarStore.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anuitex\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj": {
-                "projectPath": "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj"
+              "C:\\Projects\\Car\\CarStore.Shared\\CarStore.Shared.csproj": {
+                "projectPath": "C:\\Projects\\Car\\CarStore.Shared\\CarStore.Shared.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj": {
+    "C:\\Projects\\Car\\CarStore.Shared\\CarStore.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj",
+        "projectUniqueName": "C:\\Projects\\Car\\CarStore.Shared\\CarStore.Shared.csproj",
         "projectName": "CarStore.Shared",
-        "projectPath": "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj",
+        "projectPath": "C:\\Projects\\Car\\CarStore.Shared\\CarStore.Shared.csproj",
         "packagesPath": "C:\\Users\\Anuitex\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CarStore\\CarStore.Shared\\obj\\",
+        "outputPath": "C:\\Projects\\Car\\CarStore.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anuitex\\AppData\\Roaming\\NuGet\\NuGet.Config",

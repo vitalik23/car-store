@@ -179,11 +179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj",
+      "projectUniqueName": "C:\\Projects\\Car\\CarStore.Shared\\CarStore.Shared.csproj",
       "projectName": "CarStore.Shared",
-      "projectPath": "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj",
+      "projectPath": "C:\\Projects\\Car\\CarStore.Shared\\CarStore.Shared.csproj",
       "packagesPath": "C:\\Users\\Anuitex\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CarStore\\CarStore.Shared\\obj\\",
+      "outputPath": "C:\\Projects\\Car\\CarStore.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anuitex\\AppData\\Roaming\\NuGet\\NuGet.Config",

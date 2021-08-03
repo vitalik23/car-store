@@ -5508,11 +5508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CarStore\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj",
+      "projectUniqueName": "C:\\Projects\\Car\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj",
       "projectName": "CarStore.BusinessLogicLayer",
-      "projectPath": "C:\\Projects\\CarStore\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj",
+      "projectPath": "C:\\Projects\\Car\\CarStore.BusinessLogicLayer\\CarStore.BusinessLogicLayer.csproj",
       "packagesPath": "C:\\Users\\Anuitex\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CarStore\\CarStore.BusinessLogicLayer\\obj\\",
+      "outputPath": "C:\\Projects\\Car\\CarStore.BusinessLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anuitex\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5529,11 +5529,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Projects\\CarStore\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Projects\\CarStore\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj"
+            "C:\\Projects\\Car\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Projects\\Car\\CarStore.DataAccessLayer\\CarStore.DataAccessLayer.csproj"
             },
-            "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj": {
-              "projectPath": "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj"
+            "C:\\Projects\\Car\\CarStore.Shared\\CarStore.Shared.csproj": {
+              "projectPath": "C:\\Projects\\Car\\CarStore.Shared\\CarStore.Shared.csproj"
             }
           }
         }

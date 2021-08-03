@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b2tA1733/AL2YerTtCiZpUSVnU06GSW0QlmK8CheEMIfCglbSEL9MtHGCS+GysLsEHLbln60mn/OSvt+f+GpLg==",
+  "dgSpecHash": "QVW5eq000c5hSTSF4761Hqg5mLZlxAI66t4p/lvJ1pJHA3fYzfAjA+a6WlUX80Bv1hYWBeJYqNSUEAxHpUW2QA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CarStore\\CarStore\\CarStore.PresentationLayer.csproj",
+  "projectFilePath": "C:\\Projects\\Car\\CarStore\\CarStore.PresentationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anuitex\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Anuitex\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.8\\microsoft.aspnetcore.authentication.jwtbearer.5.0.8.nupkg.sha512",

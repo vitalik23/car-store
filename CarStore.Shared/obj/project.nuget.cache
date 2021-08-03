@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "guvBGCEIgHXNJLdKnjOYTcJZuEVV1u9CD/yKcmzSjqf0Q9fYKE8vMJVjFk0iuu1rWDK16EEHzwBuP/iQmODHLg==",
+  "dgSpecHash": "/5yn6fp8GzeilG6B2nj35sm3DhmS3E+lmlep9c6rdkGE3wG2ykrO8Dx3qlRocCxtu8XXpC2zpYJBibPsxNDwOg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\CarStore\\CarStore.Shared\\CarStore.Shared.csproj",
+  "projectFilePath": "C:\\Projects\\Car\\CarStore.Shared\\CarStore.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anuitex\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\Anuitex\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
